@@ -12,7 +12,7 @@ Paste a rough email, get 3-4 context-appropriate tone suggestions, pick one (or 
 
 ```bash
 # If you haven't cloned it yet:
-git clone <framework-repo-url> ../nla-framework
+git clone https://github.com/mightytech/nla-framework.git ../nla-framework
 ```
 
 **Claude Code** must be installed. This project runs inside Claude Code sessions.
